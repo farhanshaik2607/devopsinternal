@@ -1,0 +1,4 @@
+body{font-family: Arial; margin: 30px;}
+input select{margin: 5px; padding: 4px;}
+.err{color: red; font-size: 12px;}
+#msg{color: green ; white-space: pre-line;}
